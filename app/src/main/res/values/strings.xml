@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Hello Android</string>
+
+    <string name="hello_world">Hello World!</string>
+    <string name="teste">Teste</string>
+
+    <string name="usuario">Usuário</string>
+    <string name="senha">Senha</string>
+    <string name="login">Login</string>
+</resources>
